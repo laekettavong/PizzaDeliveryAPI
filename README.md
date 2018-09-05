@@ -289,11 +289,3 @@ Endpoint: `<host>`:`<port>`/orders
 Method: GET  
 Required request header  
     `token` : authToken  
-
-
-# Dev Notes
-Locally create a **.data** in the root directory, then create following subdirectories inside it - TODO: introduce script to handle this.
-- carts
-- orders
-- tokens
-- users
